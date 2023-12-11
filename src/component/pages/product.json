@@ -1,0 +1,376 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Wooden chair",
+    "price": 500,
+    "description": "This wooden chair is a blend of fine texture and appeal. Wooden logs are joined together to shape this chair",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/11112728/pexels-photo-11112728.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Pillow Chair ",
+    "price": 600,
+    "description": "Chair Cushions generally refer to a separate cushion placed upon a chair to add comfort and style",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/16249593/pexels-photo-16249593/free-photo-of-chair-with-pillow.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "ply wood Chair",
+    "price": 700,
+    "description": "Its strength and durability.",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/7512609/pexels-photo-7512609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Black chair",
+    "price": 650,
+    "description": "The cushion consists of an air bladder that can be inflated or deflated to adjust the level of support",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/2762247/pexels-photo-2762247.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 5.0,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Rolling short Chair",
+    "price": 695,
+    "description": "Essential features of slim revolving chairs include a compact design, ergonomic support, comfortable seating, and 360-degree swivel capability",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/12269761/pexels-photo-12269761.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cardle hanging Chair",
+    "price": 750,
+    "description": "improving circulation and reducing pressure points, promoting relaxation and reducing stress, providing a change of scenery and fresh air which can help improve focus. ",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/4582820/pexels-photo-4582820.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Sun bath Chair",
+    "price": 350,
+    "description": "is a chair-like device, typically placed in a patio, garden, or swimming pool deck, or used as beach-side outdoor furniture.",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/17236063/pexels-photo-17236063/free-photo-of-young-woman-sitting-on-modern-chair-near-pool.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  
+  {
+    "id": 8,
+    "title": "Clothy Chair",
+    "price": 250,
+    "description": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat or slightly angled seat and a back-rest.",
+    "category": "Chair",
+    "image": "https://images.pexels.com/photos/16378571/pexels-photo-16378571/free-photo-of-a-folding-chair-and-a-table-with-a-bouquet.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  }
+   ,{
+    "id": 9,
+    "title": "Nordic Sofa",
+    "price": 1500,
+    "description": "Nordic Sofa is a seating system is based on a modular concept with stunning design and comfort",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/10582334/pexels-photo-10582334.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "Cotton sofa",
+    "price": 1700,
+    "description": "A couch consists of a frame, springs, padding, and a covering. The frame is usually made of wood, but can also be made of steel, plastic or laminated boards.",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/17264327/pexels-photo-17264327/free-photo-of-living-room-interior-mockup-b_01-3d-rendering.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Causal Sofa",
+    "price": 2000,
+    "description": "A sofa is a long, comfortable seat with a back and usually with arms, which two or three people can sit on",
+    "category": "Sofa",
+    "image": "https://media.istockphoto.com/id/904284954/photo/casual-traditional-oyster-cream-sofa.jpg?b=1&s=612x612&w=0&k=20&c=fnyTq981aMGsUVn4XPVtkv4I6RUJzypKruoslyPC-Ag=",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "Family Sofa",
+    "price": 2114,
+    "description": "large sofas of informal design with a low profile, deep plush seats and cushions and sturdy construction",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/17264274/pexels-photo-17264274/free-photo-of-living-room-picture-frame-mockup-a01_03-3d-rendering.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "MC Sofa",
+    "price": 1599,
+    "description": "Family sofas are understandably popular in family rooms or informal living rooms.",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/17264275/pexels-photo-17264275/free-photo-of-living-room-picture-frame-mockup-a01_02-3d-rendering.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Sofa",
+    "price": 1999.99,
+    "description": "A sofa is a long, comfortable seat with a back and usually with arms, which two or three people can sit on",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/11888485/pexels-photo-11888485.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "White Sofa",
+    "price": 2256.99,
+    "description": "A sofa is a long, comfortable seat with a back and usually with arms, which two or three people can sit on",
+    "category": "sofa",
+    "image": "https://media.istockphoto.com/id/1325867076/photo/modern-interior-of-living-room-with-design-modular-beige-sofa-and-accessories-template.jpg?b=1&s=612x612&w=0&k=20&c=H1LMufFs7WB35BAI4knagrvEzJQ25edEUPyUQ7C05DQ=",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Red Sofa",
+    "price": 2229.95,
+    "description": "A couch, also known as a sofa, settee, chesterfield, or davenport, is a cushioned item of furniture for seating multiple people. It is commonly found in the form of a bench with upholstered armrests and is often fitted with springs and tailored cushion and pillows",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/11472224/pexels-photo-11472224.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },{
+    "id": 17,
+    "title": "Dining Table",
+    "price": 3439.99,
+    "description": "A table is a piece of furniture with a flat top that you put things on or sit at. She was sitting at the kitchen table eating a currant bun. I placed his drink on the small table at his elbow. Synonyms: counter, bench, stand, board More Synonyms of table.",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/14521681/pexels-photo-14521681.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "Wooden Table",
+    "price": 3539.99,
+    "description": "Traditional wooden dining table designs consist of traditional materials, usually dark hardwood. They may have some metal touches. They are heavy and solid, often with decorative carvings. They are classic in their appearance.",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/2130137/pexels-photo-2130137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 19,
+    "title": "Wooden Table",
+    "price": 2999.99,
+    "description": "A study table is one that is designed and built keeping students in mind. Since it is built with the purpose of studying kept in mind, it is used to store books and access them easily, organize study materials efficiently, and make the entire learning experience more enjoyable",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/11112745/pexels-photo-11112745.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 20,
+    "title": "Hotel Table",
+    "price": 5000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/14521681/pexels-photo-14521681.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 21,
+    "title": "School Table",
+    "price": 2999.99,
+    "description": "A study table is one that is designed and built keeping students in mind. Since it is built with the purpose of studying kept in mind, it is used to store books and access them easily, organize study materials efficiently, and make the entire learning experience more enjoyable",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/9489759/pexels-photo-9489759.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 22,
+    "title": "Hotel Table",
+    "price": 4000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/17243181/pexels-photo-17243181/free-photo-of-yellow-ceiling-over-tables-in-restaurant.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  }, {
+    "id": 23,
+    "title": "Desk Table",
+    "price": 2999.99,
+    "description": "A study table is one that is designed and built keeping students in mind. Since it is built with the purpose of studying kept in mind, it is used to store books and access them easily, organize study materials efficiently, and make the entire learning experience more enjoyable",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/11112739/pexels-photo-11112739.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 24,
+    "title": "Laptop Table",
+    "price": 1000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "Tables",
+    "image": "https://images.pexels.com/photos/17243181/pexels-photo-17243181/free-photo-of-yellow-ceiling-over-tables-in-restaurant.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 25,
+    "title": "Single Sofa ",
+    "price": 1000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "Sofa",
+    "image": "https://images.pexels.com/photos/11112727/pexels-photo-11112727.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  }, {
+    "id": 26,
+    "title": " Wooden Table ",
+    "price": 1000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 27,
+    "title": "Family Sofa",
+    "price": 1000.99,
+    "description": "A restaurant is a place where you can eat a meal and pay for it. In restaurants your food is usually served to you at your table by a waiter or waitress",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },{
+    "id": 28,
+    "title": "office Table",
+    "price": 3539.99,
+    "description": "Traditional wooden dining table designs consist of traditional materials, usually dark hardwood. They may have some metal touches. They are heavy and solid, often with decorative carvings. They are classic in their appearance.",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 29,
+    "title": "Dining Table",
+    "price": 2999.99,
+    "description": "A study table is one that is designed and built keeping students in mind. Since it is built with the purpose of studying kept in mind, it is used to store books and access them easily, organize study materials efficiently, and make the entire learning experience more enjoyable",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  }, {
+    "id": 30,
+    "title": "Pushen Chair",
+    "price": 350,
+    "description": "is a chair-like device, typically placed in a patio, garden, or swimming pool deck, or used as beach-side outdoor furniture.",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/17488644/pexels-photo-17488644/free-photo-of-silla-3d-frontal.png?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  
+  {
+    "id": 31,
+    "title": "Colorful Chair",
+    "price": 250,
+    "description": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat or slightly angled seat and a back-rest.",
+    "category": "New Arrivals",
+    "image": "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  }
+
+  
+
+ 
+]

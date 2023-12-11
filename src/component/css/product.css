@@ -1,0 +1,44 @@
+
+.before-footer-section {
+    padding: 2rem 0 5rem 0 !important;
+  }
+  
+  .align {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .bg {
+    background: #3b5d50;
+    color: lightgoldenrodyellow;
+    padding: 2rem;
+  }
+  
+  .add_cart {
+    background: #fb641b;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border: none;
+    color: #fff;
+    width: 100%; /* Make the button take the full width */
+  }
+  
+  .top-text {
+    text-align: center;
+    background: #3b5d50;
+    border: double;
+    padding: 1rem;
+  }
+  
+  /* Responsive adjustments for smaller screens */
+  @media (max-width: 768px) {
+    .align {
+      margin-left: 0;
+    }
+  
+    .col-lg-6 {
+      flex: 0 0 100%; /* Make the columns take full width on smaller screens */
+      max-width: 100%;
+    }
+  }
+  
